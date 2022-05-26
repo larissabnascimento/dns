@@ -1,0 +1,5 @@
+
+zone "asa-teste.com" {
+    type master;
+    file "/etc/bind/zones/db.asa-teste.com";
+};
